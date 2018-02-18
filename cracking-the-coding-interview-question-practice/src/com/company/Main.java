@@ -3,6 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello there");
+        Chapter_1 chapterOne = new Chapter_1();
+        System.out.println(chapterOne.isUnique());
     }
 }
