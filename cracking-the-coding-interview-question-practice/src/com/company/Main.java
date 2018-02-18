@@ -4,6 +4,5 @@ public class Main {
 
     public static void main(String[] args) {
         Chapter_1 chapterOne = new Chapter_1();
-        System.out.println(chapterOne.isUnique());
     }
 }
